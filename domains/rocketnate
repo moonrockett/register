@@ -1,0 +1,14 @@
+{
+  "domain": "rocketnate",
+  "subdomain": "is-a.dev",
+  "owner": {
+    "github": "moonrockett"
+  },
+  "records": [
+    {
+      "type": "A",
+      "content": "3.107.194.7",
+      "ttl": 60
+    }
+  ]
+}
